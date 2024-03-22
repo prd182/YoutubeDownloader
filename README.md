@@ -1,4 +1,4 @@
-# YoutubeDownloader
+# Youtube Downloader
  A Youtube video downloader
  
  ***Languages used:***
