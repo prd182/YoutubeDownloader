@@ -1,5 +1,10 @@
 # YoutubeDownloader
- A Youtube video downloader made in Python
+ A Youtube video downloader
+ 
+ ***Languages used:***
+ - TeX
+ - HTML
+ - Python
 
- Features:
+ ***Features:***
  - pytube library
