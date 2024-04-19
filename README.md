@@ -1,5 +1,4 @@
 # Youtube Downloader
-A Youtube video downloader. 
  
  ## Description:
  A console app that receives a valid YouTube URL and downloads its content in .mp4 format.
