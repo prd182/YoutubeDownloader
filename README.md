@@ -1,10 +1,13 @@
 # Youtube Downloader
- A Youtube video downloader
+A Youtube video downloader. 
  
- ***Languages used:***
+ ## Description:
+ A console app that receives a valid YouTube URL and downloads its content in .mp4 format.
+ 
+ ## Languages:
  - TeX
  - HTML
  - Python
 
- ***Features:***
+ ## Features:
  - pytube library
